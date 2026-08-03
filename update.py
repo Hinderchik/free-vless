@@ -153,7 +153,7 @@ def create_readme(grouped: Dict[str, List[str]], total_links: int, updated_at: s
 ## 📦 Автообновляемая подписка
 
 **Ссылка для импорта:**
-https://{os.environ.get('GITHUB_REPOSITORY', 'username.github.io/repo')}/docs/{OUTPUT_FILE}
+https://hinderchik.github.io/free-vless/docs/index.txt
 
 **Статистика:**
 - 📅 Обновлено: {updated_at}
