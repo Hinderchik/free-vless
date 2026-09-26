@@ -6,23 +6,23 @@
 https://hinderchik.github.io/free-vless/docs/index.txt
 
 **Статистика:**
-- 📅 Обновлено: 2026-09-25 07:29 UTC
-- 🔗 Всего ссылок: 17
+- 📅 Обновлено: 2026-09-26 10:07 UTC
+- 🔗 Всего ссылок: 40
 - 🌍 Стран: 13
 
 ## 📊 Распределение по странам
 
 | Страна | Количество ссылок |
 |--------|------------------|
-| finland | 7 |
-| poland | 7 |
-| netherlands | 3 |
+| finland | 10 |
+| germany | 10 |
+| netherlands | 10 |
+| w_germany | 10 |
 | baltics | 0 |
-| germany | 0 |
 | sweden | 0 |
+| poland | 0 |
 | w_baltics | 0 |
 | w_finland | 0 |
-| w_germany | 0 |
 | w_sweden | 0 |
 
 ## 🚀 Как использовать
@@ -43,7 +43,7 @@ https://hinderchik.github.io/free-vless/docs/index.txt
 
 Подписка обновляется автоматически каждый день через GitHub Actions.
 
-Последнее обновление: 2026-09-25 07:29 UTC
+Последнее обновление: 2026-09-26 10:07 UTC
 
 ---
 *Сгенерировано автоматически • Источник: [vless-checker](https://github.com/tiagorrg/vless-checker)*
