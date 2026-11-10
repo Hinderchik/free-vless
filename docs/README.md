@@ -6,8 +6,8 @@
 https://hinderchik.github.io/free-vless/docs/index.txt
 
 **Статистика:**
-- 📅 Обновлено: 2026-11-09 09:30 UTC
-- 🔗 Всего ссылок: 27
+- 📅 Обновлено: 2026-11-10 11:37 UTC
+- 🔗 Всего ссылок: 20
 - 🌍 Стран: 13
 
 ## 📊 Распределение по странам
@@ -16,10 +16,10 @@ https://hinderchik.github.io/free-vless/docs/index.txt
 |--------|------------------|
 | germany | 10 |
 | poland | 10 |
-| netherlands | 7 |
 | baltics | 0 |
 | finland | 0 |
 | sweden | 0 |
+| netherlands | 0 |
 | w_baltics | 0 |
 | w_finland | 0 |
 | w_germany | 0 |
@@ -43,7 +43,7 @@ https://hinderchik.github.io/free-vless/docs/index.txt
 
 Подписка обновляется автоматически каждый день через GitHub Actions.
 
-Последнее обновление: 2026-11-09 09:30 UTC
+Последнее обновление: 2026-11-10 11:37 UTC
 
 ---
 *Сгенерировано автоматически • Источник: [vless-checker](https://github.com/tiagorrg/vless-checker)*
